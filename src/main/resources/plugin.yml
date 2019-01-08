@@ -1,0 +1,11 @@
+name: AutoShutdown
+main: me.healpot.autoshutdown.AutoShutdownPlugin
+version: ${project.version}
+commands:
+  AutoShutdown:
+    description: Interact with the AutoShutdown plugin
+    usage: "Usage: '/AutoShutdown help'"
+  as:
+    description: Interact with the AutoShutdown plugin
+    usage: "Usage: '/ar help'"
+    
